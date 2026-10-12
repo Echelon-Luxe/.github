@@ -1,6 +1,6 @@
 # LogiTrack
 
-A microservices-based logistics and shipment-tracking platform, deployed to Kubernetes.
+A microservices-based logistics and shipment-tracking platform, deployed to Kubernetes AWS EKS and Digital-Ocean you can go through the repo or contribute we can't keep all the services running because of the cloud charges.
 
 <p align="center">
   <img src="assets/login-preview.png" alt="LogiTrack login screen" width="900">
